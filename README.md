@@ -3,8 +3,8 @@
 ## This is a web site to jot notes of what I learn day to day in 201
 
 ### Table of Content
-* [Reading 01]()
-* [Reading 02]()
+* [Reading 01](class-01.md)
+* [Reading 02](class-02.md)
 * [Reading 04]()
 * [Reading 05]()
 * [Reading 06]()
