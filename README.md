@@ -5,9 +5,10 @@
 ### Table of Content
 * [Reading 01](class-01.md)
 * [Reading 02](class-02.md)
-* [Reading 04](class-03.md)
-* [Reading 05]((class-04.md)
-* [Reading 06]()
+* [Reading 03](class-03.md)
+* [Reading 04]((class-04.md)
+* [Reading 05]()
+* [Reading 06](class-06.md)
 * [Reading 07]()
 * [Reading 08]()
 * [Reading 09]()
@@ -16,4 +17,3 @@
 * [Reading 12]()
 * [Reading 13]()
 * [Reading 14]()
-* [Reading 15]()
