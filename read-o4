@@ -1,0 +1,25 @@
+# Grid
+
+Q: What is grid?
+A: Grid is a new way of styling with CSS. You basically make a grid using columns and row. Then tell your html elements where and how much of the grid to use.
+
+Syntax and examples:
+
+main {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+grid-template-columns: 20% 20% 20% 20% 20%;
+or
+grid-template-columns: repeat(5, 20%);
+
+grid-column-start: 1;
+grid-column-end: 3;
+grid-row-start: 1;
+grid-row-end: 3;
+
+grid-area: 1 / 1 / 3 / 6;
+
+order: 0;
